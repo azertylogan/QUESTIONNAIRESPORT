@@ -1,0 +1,227 @@
+#sportsDeCombat:target{
+  display:block;
+}
+
+#sportsDeCombat:not(target){
+  display:none;
+}
+
+#artMartiaux:not(target){
+  display:none;
+}
+
+#artMartiaux:target {
+  display: block;
+}
+
+#artMartiaux:target #sportsDeCombat {
+  display:none;
+}
+
+#frapper:not(target) {
+  display: none;
+}
+
+#frapper:target {
+  display:block
+}
+
+#karate:not(target) {
+  display: none;
+}
+
+#karate:target {
+  display:block
+}
+
+#judo:not(target) {
+  display: none;
+}
+
+#judo:target {
+  display:block
+}
+
+#boxe:not(target) {
+  display: none;
+}
+
+#boxe:target {
+  display:block
+}
+
+#sportsCollectif:not(target) {
+  display: none;
+}
+
+#sportsCollectif:target {
+  display:block
+}
+
+#ballon:not(target) {
+  display: none;
+}
+
+#ballon:target {
+  display:block
+}
+
+#mainOuPied:not(target) {
+  display: none;
+}
+
+#mainOuPied:target {
+  display:block
+}
+
+#handball:not(target) {
+  display: none;
+}
+
+#handball:target {
+  display:block
+}
+
+#football:not(target) {
+  display: none;
+}
+
+#football:target {
+  display:block
+}
+
+#physiqueOuMental:not(target) {
+  display: none;
+}
+
+#physiqueOuMental:target {
+  display:block
+}
+
+#ultimate:not(target) {
+  display: none;
+}
+
+#ultimate:target {
+  display:block
+}
+
+#danse:not(target) {
+  display: none;
+}
+
+#danse:target {
+  display:block
+}
+
+#hockeySurGazon:not(target) {
+  display: none;
+}
+
+#hockeySurGazon:target {
+  display:block
+}
+
+#raquette:not(target) {
+  display: none;
+}
+
+#raquette:target {
+  display:block
+}
+
+#effortCourtOuLong:not(target) {
+  display: none;
+}
+
+#effortCourtOuLong:target {
+  display:block
+}
+
+#badbinton:not(target) {
+  display: none;
+}
+
+#badbinton:target {
+  display:block
+}
+
+#tenis:not(target) {
+  display: none;
+}
+
+#tenis:target {
+  display:block
+}
+
+#sportNautique:not(target) {
+  display: none;
+}
+
+#sportNautique:target {
+  display:block
+}
+
+#natation:not(target) {
+  display: none;
+}
+
+#natation:target {
+  display:block
+}
+
+#sportDeCourse:not(target) {
+  display: none;
+}
+
+#sportDeCourse:target {
+  display:block
+}
+
+#pied:not(target) {
+  display: none;
+}
+
+#pied:target {
+  display:block
+}
+
+#coursePied:not(target) {
+  display: none;
+}
+
+#coursePied:target {
+  display:block
+}
+
+#VTT:not(target) {
+  display: none;
+}
+
+#VTT:target {
+  display:block
+}
+
+#hauteur:not(target) {
+  display: none;
+}
+
+#hauteur:target {
+  display:block
+}
+
+#golf:not(target) {
+  display: none;
+}
+
+#golf:target {
+  display:block
+}
+
+#escalade:not(target) {
+  display: none;
+}
+
+#escalade:target {
+  display:block
+}
